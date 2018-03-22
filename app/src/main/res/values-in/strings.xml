@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movie UI/UX</string>
+
+    <string name="navigation_drawer_open">Buka Laci Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Laci Navigasi</string>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="account_mail">alanikika26@gmail.com</string>
+    <string name="account_name">Alanikika Pratyaksa</string>
+    <string name="account_phone">085691919954</string>
+
+    <!--Title Bar-->
+    <string name="home">Beranda</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="now_playing">Sedang Dimainkan</string>
+    <string name="search">Pencarian</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hai Fragment Kosong</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_lead">Sinopsis Film</string>
+    <string name="movie_date">Tanggal Rilis</string>
+    <string name="hint_tittle">Judul</string>
+    <string name="btn_search">Cari</string>
+    <string name="release_date">Tanggal Rilis:</string>
+    <string name="title">Judul:</string>
+    <string name="synopsis">Sinopsis:</string>
+    <string name="read_more">Lebih Banyak..</string>
+    <string name="language">Bahasa: </string>
+    <string name="welcome">Selamat Datang di Movie DB</string>
+    <string name="change_language">Ubah Bahasa</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language">Language</string>
+    <string name="welcome">Welcome To Movie DB</string>
+    <string name="change_language">Change Language</string>
+</resources>
