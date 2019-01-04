@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MOVIEUIUX-LOADER.iml" filepath="$PROJECT_DIR$/MOVIEUIUX-LOADER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Made-Dicoding.iml" filepath="$PROJECT_DIR$/Made-Dicoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
